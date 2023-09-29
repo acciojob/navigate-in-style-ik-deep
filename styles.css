@@ -7,7 +7,8 @@
 
 .nav-item{
 	display:flex;
-	justify-content:space-between;
-	margin-right:1rem;
 	list-style:none;
+}
+.nav-item>li{
+	margin-right:1rem;
 }
